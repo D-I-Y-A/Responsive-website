@@ -1,7 +1,7 @@
 # TinDog Project
 
-HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
-https://github.com/appbrewery/tindog/blob/main/Bootstrap-snippets.pdf
+Tindong is a fun and friendly website designed to help dog lovers connect with other dogs nearby—like a dating app, but for dogs! Users can create profiles for their pets, browse local dog matches, and set up playdates. The goal is to build a community for socializing, sharing dog stories, and finding furry friends. It's a playful platform that makes it easier for dogs (and their owners) to meet and bond.
+
 
 ## SVGs:
 
